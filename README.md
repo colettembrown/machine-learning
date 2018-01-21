@@ -1,2 +1,2 @@
 # machine-learning
-This is code from my Machine Learning course. 
+Assignments and projects in ML using scikit-learn, Pandas and other tools.
